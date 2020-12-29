@@ -3,6 +3,7 @@ public class Initialize {
     {
         int month = 2, days = 28;
         System.out.println("Month " + month + " has " + days + " days.");
+
         
     }
 }
