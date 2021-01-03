@@ -4,7 +4,6 @@ public class Stringdemo
     {
         String greeting = "Good morning, ";
         String name = "Herman";
-        
         System.out.println(greeting + name);
     }
 }
